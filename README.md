@@ -24,8 +24,8 @@ Sou um desenvolvedor em formação, motivado pelo aprendizado contínuo e pelo d
 
 O projeto teve como objetivo aplicar, na prática, conhecimentos de desenvolvimento web, organização de sistemas e criação de uma plataforma digital funcional. O **9xHype** foi desenvolvido em equipe, em conjunto com:
 
-- **Eduardo Ribeiro** (doardo9x)  
-- **Carlos Eduardo**
+- **Eduardo Ribeiro** (https://github.com/doardo9x)  
+- **Carlos Eduardo** (https://github.com/Carlos-Passarelli)
 
 O trabalho envolveu planejamento, desenvolvimento, colaboração em equipe e aplicação de boas práticas de programação.
 
