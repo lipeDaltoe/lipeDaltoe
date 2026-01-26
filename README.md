@@ -43,7 +43,9 @@ O trabalho envolveu planejamento, desenvolvimento, colaboração em equipe e apl
 📫 **Vamos nos conectar!**  
 Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução na área de tecnologia.
 
---- **Contato**
+---
+
+ **Contato**
 - LinkedIn: https://www.linkedin.com/in/lipeDaltoe
 - Email: daltoefelipe31@gmail.com
 <!--
