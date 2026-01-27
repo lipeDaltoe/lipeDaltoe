@@ -36,7 +36,7 @@ O trabalho envolveu planejamento, desenvolvimento, colaboração em equipe e apl
 - CSS  
 - JavaScript
 - C#
-- Git & GitHub  
+- GitHub  
 
 ---
 
