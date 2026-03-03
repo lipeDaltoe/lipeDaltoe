@@ -11,6 +11,9 @@ Sou um desenvolvedor em formação, motivado pelo aprendizado contínuo e pelo d
 ---
 
 ## 🎓 Formação Acadêmica
+- **Unisagrado**  
+  Atualmente cursando graduação em **Ciência da Computação**
+
 - **ETEC Comendador João Rays**  
   Ensino Médio com Habilitação Profissional de **Técnico em Informática para Internet**
 
